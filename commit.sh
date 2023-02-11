@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 git add .
-echo $1
-git commit -m $'1'
-#git push
+git commit -m 'this is john trying to do the first task'
+git push
